@@ -13,8 +13,8 @@
 
 
 ### Connect with me:
-<img align="left" alt="Aniket Potdar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Aniket Potdar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Aniket Potdar | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/67656639/120062968-766bf480-c082-11eb-8f6c-a68a001734d4.png" />
+<img align="left" alt="Aniket Potdar | Instagram" width="22px" src="https://user-images.githubusercontent.com/67656639/120062934-445a9280-c082-11eb-80e0-8d894f5f66a3.png" />
 
 <br />
 
