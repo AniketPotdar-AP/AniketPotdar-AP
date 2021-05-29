@@ -4,7 +4,7 @@
 ### Hi there, I'm Aniket 👋
 
 
-## I'm a Full Stack Developer
+## I'm a Java Full Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
