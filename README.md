@@ -12,7 +12,9 @@
 
 
 ### Connect with me:
-<img align="left" alt="Aniket Potdar | LinkedIn" width="22px" href="https://www.instagram.com/_aniket_potdar__/" src="https://user-images.githubusercontent.com/67656639/120062968-766bf480-c082-11eb-8f6c-a68a001734d4.png" />
+ <a href="https://www.instagram.com/_aniket_potdar__/" target="blank">
+<img align="left" alt="Aniket Potdar | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/67656639/120062968-766bf480-c082-11eb-8f6c-a68a001734d4.png" />
+  </a>
 <img align="left" alt="Aniket Potdar | Instagram" width="22px" src="https://user-images.githubusercontent.com/67656639/120062934-445a9280-c082-11eb-80e0-8d894f5f66a3.png" />
 
 <br />
