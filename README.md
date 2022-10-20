@@ -4,7 +4,7 @@
 ### Hi there, I'm Aniket 👋
 
 
-## I'm a Web Developer
+## I'm a Angular Developer
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other Developers
