@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning MEAN Stack Development
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/aniket-potdar-30b5b220b/">
