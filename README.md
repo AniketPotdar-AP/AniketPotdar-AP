@@ -2,7 +2,7 @@
 
 ## I'm an Angular Developer
 
-- 🌱 I’m currently learning MEAN Stack Development
+- 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
