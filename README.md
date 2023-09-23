@@ -1,6 +1,6 @@
 ### Hi there, I'm Aniket 👋
 
-## I'm an Frontend Developer
+## I'm a Frontend Developer
 
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate with other Developers
@@ -22,10 +22,10 @@ alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/expl
 <img align="left" alt="Angular" width="26px" src="https://user-images.githubusercontent.com/67656639/200905422-399d1765-c567-4f33-8faf-7ac4ad89a198.png"/>
 <img align="left" alt="Node JS" width="26px" src="https://user-images.githubusercontent.com/67656639/200906031-c002dbc6-7a13-443e-975a-d231ef7d3753.png"/>
 <img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/67656639/200906389-a80c55e3-c9eb-4bfa-b450-2affb722d6bf.svg"/> 
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/67656639/120059256-ea4fd200-c06d-11eb-85d7-0595295f3848.png"/>
+<!--<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/67656639/120059256-ea4fd200-c06d-11eb-85d7-0595295f3848.png"/>
 <img align="left" alt="Hibernate" width="26px" src="https://user-images.githubusercontent.com/67656639/120059342-a4dfd480-c06e-11eb-88ea-e1756a78e42c.png"/>
-<img align="left" alt="Spring" width="28px" height="26px" src="https://user-images.githubusercontent.com/67656639/120059435-2d5e7500-c06f-11eb-9302-bce6d5ef81f4.png"/>
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Spring" width="28px" height="26px" src="https://user-images.githubusercontent.com/67656639/120059435-2d5e7500-c06f-11eb-9302-bce6d5ef81f4.png"/>  
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />-->
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
