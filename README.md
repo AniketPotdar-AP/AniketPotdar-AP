@@ -1,6 +1,6 @@
 ### Hi there, I'm Aniket 👋
 
-## I'm a Web Developer
+## I'm a Frontend Developer
 
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate with other Developers
