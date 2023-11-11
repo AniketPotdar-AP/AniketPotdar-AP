@@ -12,7 +12,6 @@
 💡 &nbsp; I'm a Frontend Developer looking to contribute to open source projects. \
 🎓&nbsp;I pursuing Enginnering from Parvatibai Genba Moze College of Engineering, Pune (Information Technology).\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development and also various Programming languages.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at anketpanditpotdar@gmail.com. I'll try to respond as soon as possible!
 <!--📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience. -->
 
