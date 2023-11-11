@@ -26,7 +26,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=Angular&logoColor=red)
 ![Node JS](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=green)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&logoColor=green)
-![Bootstrap](https://img.shields.io/badge/-Express.js-05122A?style=for-the-badge&logo=Express.js&logoColor=563D7C)\
+![Express Js](https://img.shields.io/badge/-Express.js-05122A?style=for-the-badge&logo=Express.js&logoColor=563D7C)
+![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=for-the-badge&logo=Ionic&logoColor=blue)\
 ![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk&logoColor=FFA518)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=for-the-badge&logo=Spring&logoColor=green)&nbsp;
 ![Hibernate](https://img.shields.io/badge/Hibernate-05122A?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
