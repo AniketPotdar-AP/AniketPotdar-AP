@@ -10,7 +10,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Frontend Developer looking to contribute to open source projects. \
-🎓&nbsp;I pursuing Enginnering from P.G.Moze College of Engineering, Pune (B.Tech, Information Technology).\
+🎓&nbsp;I pursuing Enginnering from P.G.Moze College of Engineering, Pune (Information Technology).\
 🌱 &nbsp;I'm on track for learning more about Full Stack Development and also various Programming languages.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at anketpanditpotdar@gmail.com. I'll try to respond as soon as possible!
