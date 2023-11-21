@@ -26,9 +26,8 @@
 ![Node JS](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=green)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![Express Js](https://img.shields.io/badge/-Express.js-05122A?style=for-the-badge&logo=Express.js&logoColor=563D7C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript&logoColor=blue)
 ![Ionic](https://img.shields.io/badge/-Ionic-05122A?style=for-the-badge&logo=Ionic&logoColor=blue)
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=Firebase&logoColor=yellow)\
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript&logoColor=blue)\
 ![Java](https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=openjdk&logoColor=FFA518)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=for-the-badge&logo=Spring&logoColor=green)&nbsp;
 ![Hibernate](https://img.shields.io/badge/Hibernate-05122A?style=for-the-badge&logo=Hibernate&logoColor=white)&nbsp;
@@ -36,6 +35,7 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=for-the-badge&logo=Firebase&logoColor=yellow)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
