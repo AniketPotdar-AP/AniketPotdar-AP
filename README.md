@@ -6,7 +6,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=AniketPotdar-AP&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AniketPotdar-AP?label=follow&style=social)](https://github.com/AniketPotdar-AP)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
--->
+--> 
 ### 👨🏻‍💻 &nbsp;About Me
 
  💡 &nbsp;  I'm a Frontend Developer looking to contribute to open source projects. \
