@@ -1,6 +1,6 @@
 ##
 
-### Hello there, It's Aniket!  
+### Hello there, It's Aniket!   
 <!-- 
 ![version :20.08.2021](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=AniketPotdar-AP&color=red)&nbsp;
@@ -23,8 +23,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
 ![Taiwind CSS](https://img.shields.io/badge/-Tailwind%20css-05122A?style=for-the-badge&logo=Tailwindcss&logoColor=blue)\
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&logoColor=blue)
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=for-the-badge&logo=Angular&logoColor=red)
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&logoColor=blue)
 ![Node JS](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=green)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![Express Js](https://img.shields.io/badge/-Express.js-05122A?style=for-the-badge&logo=Express.js&logoColor=563D7C)
