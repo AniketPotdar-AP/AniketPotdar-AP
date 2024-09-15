@@ -46,5 +46,5 @@
 
 
 <a href="https://medium.com/@aniketpanditpotdar"><img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=flat&logo=medium&logoColor=white"/></a> &nbsp;
-<a href="mailto:aniketpanditpotdar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" /></a> &nbsp;
+<a href="https://dev.to/aniket_potdar"><img alt="Gmail" src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" /></a> &nbsp;
 &nbsp;
