@@ -1,7 +1,7 @@
 ##
 
 ### Hello there, It's Aniket! 
- 
+  
 ### 👨🏻‍💻 &nbsp;About Me 
 
  💡 &nbsp;  I'm a Frontend Developer looking to contribute to open source projects. \
