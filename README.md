@@ -1,6 +1,6 @@
 ##
 
-### Hello there, It's Aniket!  
+### Hello there, It's Aniket!   
   
 ### 👨🏻‍💻 &nbsp;About Me 
 
