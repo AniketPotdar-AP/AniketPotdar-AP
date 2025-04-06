@@ -3,7 +3,7 @@
 ### Hello there, It's Aniket!   
   
 ### 👨🏻‍💻 &nbsp;About Me 
-
+ 
 💡&nbsp; I'm a Frontend Developer looking to contribute to open source projects. \
 🎓&nbsp; I'm pursuing Engineering from Savitribai Phule Pune University.\
 🌱&nbsp; I'm on track for learning more about Full Stack Development and various Programming languages.\
